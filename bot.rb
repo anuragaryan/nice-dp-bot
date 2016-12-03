@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'Twitter'
+require 'twitter'
 require 'nokogiri'
 require 'net/http'
 require 'thread'
